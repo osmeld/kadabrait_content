@@ -1,0 +1,6 @@
+listado_noticias.listado:
+  path: '/listado-noticias'
+  defaults:
+    _controller: '\Drupal\kadabrait_content\Controller\ListadoNoticiasController::page'
+  requirements:
+    _permission: 'access content'

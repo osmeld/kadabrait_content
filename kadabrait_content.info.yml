@@ -1,0 +1,7 @@
+name: kandabrait content
+type: module
+description: Show content kandabrait
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: custom
+dependencies:
